@@ -1,2 +1,2 @@
 # Bash
-Test bash
+Playing around with bash
