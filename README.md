@@ -10,13 +10,13 @@ Playing around with bash
 For this example we will be using a file called test.sh but you can use any file.
 
 ### Make the script executable ###
----
+----
 chmod +x test.sh
----
+----
 
 ### Run the script ###
----
+----
 ./test.sh
----
+----
 
 
