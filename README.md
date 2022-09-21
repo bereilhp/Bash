@@ -18,5 +18,8 @@ chmod +x test.sh
 ```
 ./test.sh
 ```
+or
 
-
+```
+bash test.sh
+```
